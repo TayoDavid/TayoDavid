@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TayoDavid
 - 👀 I’m interested in Native and Hybrid Mobile App Development.
-- 🌱 I’m currently learning iOS App development with SwiftUI and related Stack.
 - 💞️ I’m looking to collaborate on anything Mobile, iOS and Android
 - 📫 You can reache me via email @ omotayo4david@gmail.com
 
